@@ -1,6 +1,6 @@
 const ColorfulMessage = (props) => {
   // {color: "blue", message: "aaaa"}
-  console.log(props);
+  // console.log(props);
   // 毎回props.colorのように書かなくて済む
   const { color, message } = props;
   // font-sizeをjsではキャメルケース(fontSize)にする
